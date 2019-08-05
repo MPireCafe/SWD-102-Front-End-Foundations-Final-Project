@@ -1,0 +1,34 @@
+body{
+    padding: 0%;
+    margin: 0;
+    color: darkgrey
+   
+}
+.moveIcon{
+    font-size: 20px;
+    padding: 10px;
+    
+}
+i{
+    color: white;
+}
+i:hover{
+    color: rgb(57, 192, 24)252, 236, 238);
+}
+.middle{
+    color: lightblue
+}
+.footer{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 20px;
+    border-radius: 0px;
+    height: 25px;
+    background-color: rgba(12, 156, 65, 0.719);
+}
+#repos{
+    text-align: center;
+}
+#list{
+    color:white;
+}
